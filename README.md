@@ -44,8 +44,8 @@ A personal learning repository for the IBM Data Analyst Professional Certificate
 | Excel for Data Analysis | ✅ Completed |
 | Python for Data Analysis | ✅ Completed |
 | SQL for Data Science | 🟡 In Progress |
-| Data Visualization | 🔜 Upcoming |
-| Dashboards & Cognos | 🔜 Upcoming |
+| Data Visualization | ✅ Completed |
+| Dashboards & Cognos | ✅ Completed |
 | Capstone Project | 🔜 Upcoming |
 
 ---
